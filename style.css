@@ -1,6 +1,7 @@
 img{
     width:160px;
     height:160px;
+    transition: width, 10s;
 }
 body{
     text-align: center;
@@ -18,4 +19,7 @@ body{
     height:35px;
     font-size:20px;
     border-radius: 3px;
+}
+img:hover{
+    width: 2000px;
 }
