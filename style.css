@@ -1,0 +1,21 @@
+img{
+    width:160px;
+    height:160px;
+}
+body{
+    text-align: center;
+    font-size:30px;
+    font-family: 'Arial';
+    background-color: rgb(158, 68, 68);
+    color: rgb(75, 18, 75);
+}
+.bigTitle{
+    font-size: 50px;
+    font-weight: bold;
+}
+.interact{
+    width: 250px;
+    height:35px;
+    font-size:20px;
+    border-radius: 3px;
+}
